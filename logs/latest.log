@@ -1,480 +1,119 @@
-[12:16:57] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
-[12:16:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:16:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:16:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:16:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:16:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:16:59] [Server thread/INFO]: Starting minecraft server version 20w11a
-[12:16:59] [Server thread/INFO]: Loading properties
-[12:16:59] [Server thread/INFO]: Default game type: SURVIVAL
-[12:16:59] [Server thread/INFO]: Generating keypair
-[12:16:59] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Controlador no válido
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
-	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
-	at xg$2.run(SourceFile:112) [server.jar:?]
-[12:17:00] [Server thread/INFO]: Starting Minecraft server on 25.65.81.88:25565
-[12:17:00] [Server thread/INFO]: Using default channel type
-[12:17:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:17:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:17:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:17:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:17:00] [Server thread/INFO]: Preparing level "asd"
-[12:17:00] [Server thread/INFO]: Reloading ResourceManager: Default
-[12:17:07] [Server thread/INFO]: Loaded 6 recipes
-[12:17:07] [Server thread/INFO]: Loaded 858 advancements
-[12:17:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:17:08] [Server thread/INFO]: Preparing spawn area: 0%
-[12:17:08] [Server thread/INFO]: Preparing spawn area: 0%
-[12:17:12] [Server thread/INFO]: Preparing spawn area: 0%
-[12:17:12] [Server thread/INFO]: Preparing spawn area: 0%
-[12:17:12] [Server thread/INFO]: Preparing spawn area: 0%
-[12:17:12] [Server thread/INFO]: Preparing spawn area: 0%
-[12:17:12] [Server thread/INFO]: Preparing spawn area: 0%
-[12:17:12] [Server thread/INFO]: Preparing spawn area: 0%
-[12:17:12] [Server thread/INFO]: Preparing spawn area: 0%
-[12:17:12] [Server thread/INFO]: Preparing spawn area: 0%
-[12:17:14] [Worker-1/INFO]: Preparing spawn area: 83%
-[12:17:14] [Worker-4/INFO]: Preparing spawn area: 83%
-[12:17:14] [Worker-7/INFO]: Preparing spawn area: 83%
-[12:17:14] [Worker-1/INFO]: Preparing spawn area: 83%
-[12:17:14] [Server thread/INFO]: Preparing spawn area: 83%
-[12:17:14] [Worker-3/INFO]: Preparing spawn area: 98%
-[12:17:15] [Server thread/INFO]: Time elapsed: 7581 ms
-[12:17:15] [Server thread/INFO]: Done (14.628s)! For help, type "help"
-[12:18:06] [Server thread/INFO]: LePr0fesseur[/25.65.81.88:52142] logged in with entity id 193 at (4133.309435286111, 70.5, -14799.69165214488)
-[12:18:06] [Server thread/INFO]: LePr0fesseur joined the game
-[12:35:42] [Server thread/INFO]: xXJuanGDCXx[/25.96.239.98:55547] logged in with entity id 3026 at (3864.148954036904, 104.0, -14749.557131019415)
-[12:35:42] [Server thread/INFO]: xXJuanGDCXx joined the game
-[12:36:00] [Server thread/INFO]: <xXJuanGDCXx> lol
-[12:36:03] [Server thread/INFO]: <xXJuanGDCXx> .|.
-[12:36:04] [Server thread/INFO]: <xXJuanGDCXx> xd
-[12:40:35] [Server thread/INFO]: LePr0fesseur lost connection: Disconnected
-[12:40:35] [Server thread/INFO]: LePr0fesseur left the game
-[12:42:39] [Server thread/INFO]: LePr0fesseur[/25.65.81.88:54188] logged in with entity id 5004 at (4113.803502077828, 70.0, -14790.430644732562)
-[12:42:39] [Server thread/INFO]: LePr0fesseur joined the game
-[12:44:24] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/sign' in progress file .\asd\advancements\0a24678a-949e-334c-94dd-ba5a67ec684d.json - it doesn't exist anymore?
-[12:44:24] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
-[12:44:24] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
-[12:44:24] [Server thread/INFO]: HappySebs[/25.5.8.158:55088] logged in with entity id 5681 at (3949.378704319439, 63.0, -14732.115715385427)
-[12:44:24] [Server thread/INFO]: HappySebs joined the game
-[12:44:51] [Server thread/INFO]: HappySebs lost connection: Timed out
-[12:44:51] [Server thread/INFO]: HappySebs left the game
-[12:45:27] [Server thread/INFO]: HappySebs[/25.5.8.158:55107] logged in with entity id 6016 at (3949.378704319439, 63.0, -14732.115715385427)
-[12:45:27] [Server thread/INFO]: HappySebs joined the game
-[12:47:22] [Server thread/INFO]: HappySebs has made the advancement [Diamonds!]
-[12:47:35] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/sign' in progress file .\asd\advancements\151cbda7-e072-3d57-988f-723a5d228708.json - it doesn't exist anymore?
-[12:47:35] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal' in progress file .\asd\advancements\151cbda7-e072-3d57-988f-723a5d228708.json - it doesn't exist anymore?
-[12:47:35] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal' in progress file .\asd\advancements\151cbda7-e072-3d57-988f-723a5d228708.json - it doesn't exist anymore?
-[12:47:35] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_red_pink' in progress file .\asd\advancements\151cbda7-e072-3d57-988f-723a5d228708.json - it doesn't exist anymore?
-[12:47:35] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal' in progress file .\asd\advancements\151cbda7-e072-3d57-988f-723a5d228708.json - it doesn't exist anymore?
-[12:47:35] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal' in progress file .\asd\advancements\151cbda7-e072-3d57-988f-723a5d228708.json - it doesn't exist anymore?
-[12:47:35] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/pink_dye_from_red_bonemeal' in progress file .\asd\advancements\151cbda7-e072-3d57-988f-723a5d228708.json - it doesn't exist anymore?
-[12:47:35] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
-[12:47:35] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_dye_from_red_bonemeal removed now.
-[12:47:35] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_red_pink removed now.
-[12:47:35] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_ink_bonemeal removed now.
-[12:47:35] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_ink_bonemeal removed now.
-[12:47:35] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_gray_bonemeal removed now.
-[12:47:35] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_dye_from_lapis_bonemeal removed now.
-[12:47:35] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_dye_from_red_bonemeal removed now.
-[12:47:35] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_red_pink removed now.
-[12:47:35] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_ink_bonemeal removed now.
-[12:47:35] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_ink_bonemeal removed now.
-[12:47:35] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_gray_bonemeal removed now.
-[12:47:35] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_dye_from_lapis_bonemeal removed now.
-[12:47:35] [Server thread/INFO]: samvarcia[/25.1.206.177:50047] logged in with entity id 6585 at (4281.566483863183, 88.0, -14734.111613809333)
-[12:47:35] [Server thread/INFO]: samvarcia joined the game
-[12:47:41] [Server thread/INFO]: <xXJuanGDCXx> samuel gay xd
-[12:48:16] [Server thread/INFO]: <xXJuanGDCXx> sebs venid a mi house!
-[12:48:36] [Server thread/INFO]: <xXJuanGDCXx> arriba de ti wapo 7u7
-[12:49:54] [Server thread/INFO]: <xXJuanGDCXx> wahcad la majestuosidad
-[12:50:03] [Server thread/INFO]: <HappySebs> xd
-[12:50:23] [Server thread/INFO]: <HappySebs> Bruhhhh pa qué tanta nieve
-[12:50:26] [Server thread/INFO]: [LePr0fesseur: Made samvarcia a server operator]
-[12:50:29] [Server thread/INFO]: [LePr0fesseur: Made HappySebs a server operator]
-[12:50:35] [Server thread/INFO]: <xXJuanGDCXx> alejo :v
-[12:50:48] [Server thread/INFO]: <xXJuanGDCXx> no me sirve xd
-[12:50:49] [Server thread/INFO]: <HappySebs> Campos hable gay xd
-[12:50:53] [Server thread/INFO]: <HappySebs> =(
-[12:51:14] [Server thread/INFO]: [HappySebs: Set own game mode to Creative Mode]
-[12:51:29] [Server thread/INFO]: [LePr0fesseur: Set HappySebs's game mode to Survival Mode]
-[12:51:39] [Server thread/INFO]: HappySebs fell from a high place
-[12:52:30] [Server thread/INFO]: [HappySebs: Teleported HappySebs to LePr0fesseur]
-[12:52:31] [Server thread/INFO]: [samvarcia: Teleported samvarcia to xXJuanGDCXx]
-[12:53:01] [Server thread/INFO]: <xXJuanGDCXx> la dominamos con alejo xd
-[12:53:19] [Server thread/INFO]: [HappySebs: Teleported HappySebs to xXJuanGDCXx]
-[12:53:36] [Server thread/INFO]: <xXJuanGDCXx> sus cosas estaban tiradas JAJA
-[12:54:22] [Server thread/INFO]: <xXJuanGDCXx> jjaja
-[12:54:41] [Server thread/INFO]: <xXJuanGDCXx> gay ud xd
-[12:55:31] [Server thread/INFO]: <xXJuanGDCXx> dormid
-[12:55:54] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to HappySebs]
-[12:55:54] [Server thread/WARN]: LePr0fesseur moved too quickly! -44.82168424620886,-8.5,-66.41802459711289
-[12:55:54] [Server thread/WARN]: LePr0fesseur moved too quickly! -44.82168424620886,-8.5,-66.41802459711289
-[12:55:54] [Server thread/WARN]: LePr0fesseur moved too quickly! -44.82168424620886,-8.5,-66.41802459711289
-[12:55:54] [Server thread/WARN]: LePr0fesseur moved too quickly! -44.82168424620886,-8.5,-66.41802459711289
-[12:55:54] [Server thread/WARN]: LePr0fesseur moved too quickly! -44.82168424620886,-8.5,-66.41802459711289
-[12:55:54] [Server thread/WARN]: LePr0fesseur moved too quickly! -44.82168424620886,-8.5,-66.41802459711289
-[12:58:08] [Server thread/WARN]: HappySebs moved too quickly! -7.918383760298639,-6.244509262464092,0.18458386538804916
-[12:59:58] [Server thread/INFO]: HappySebs was slain by Spider
-[13:00:05] [Server thread/INFO]: <HappySebs> =(
-[13:00:18] [Server thread/INFO]: <xXJuanGDCXx> que gay xd
-[13:00:25] [Server thread/INFO]: <HappySebs> USTED
-[13:00:30] [Server thread/INFO]: <xXJuanGDCXx> pues si 7u7
-[13:01:00] [Server thread/INFO]: <xXJuanGDCXx> alejo tiene una rosa :v
-[13:01:06] [Server thread/INFO]: <xXJuanGDCXx> terreno sus nalgas
-[13:02:39] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to xXJuanGDCXx]
-[13:02:39] [Server thread/WARN]: LePr0fesseur moved too quickly! -223.48494882163186,34.00133597911214,-1.7569718953418487
-[13:02:39] [Server thread/WARN]: LePr0fesseur moved too quickly! -223.48494882163186,34.00133597911214,-1.7569718953418487
-[13:02:39] [Server thread/WARN]: LePr0fesseur moved too quickly! -223.48494882163186,34.00133597911214,-1.7569718953418487
-[13:02:39] [Server thread/WARN]: LePr0fesseur moved too quickly! -223.48494882163186,34.00133597911214,-1.7569718953418487
-[13:02:39] [Server thread/WARN]: LePr0fesseur moved too quickly! -223.48494882163186,34.00133597911214,-1.7569718953418487
-[13:02:39] [Server thread/WARN]: LePr0fesseur moved too quickly! -223.48494882163186,34.00133597911214,-1.7569718953418487
-[13:02:39] [Server thread/WARN]: LePr0fesseur moved too quickly! -223.48494882163186,34.00133597911214,-1.7569718953418487
-[13:02:39] [Server thread/WARN]: LePr0fesseur moved too quickly! -223.48494882163186,34.00133597911214,-1.7569718953418487
-[13:02:39] [Server thread/WARN]: LePr0fesseur moved too quickly! -223.48494882163186,34.00133597911214,-1.7569718953418487
-[13:02:48] [Server thread/INFO]: [LePr0fesseur: Teleported HappySebs to xXJuanGDCXx]
-[13:03:37] [Server thread/INFO]: HappySebs burned to death
-[13:03:41] [Server thread/INFO]: <xXJuanGDCXx> aJAJAJAJAJ
-[13:03:58] [Server thread/INFO]: [HappySebs: Teleported HappySebs to xXJuanGDCXx]
-[13:04:54] [Server thread/INFO]: [HappySebs: Teleported HappySebs to samvarcia]
-[13:05:23] [Server thread/INFO]: <xXJuanGDCXx> de verga xd
-[13:05:32] [Server thread/INFO]: <HappySebs> Uwu
-[13:05:53] [Server thread/INFO]: <xXJuanGDCXx> tiene las escrituras?
-[13:06:01] [Server thread/INFO]: <xXJuanGDCXx> ah bueno deje ver xd
-[13:06:18] [Server thread/INFO]: <xXJuanGDCXx> uribe mis nalgas xd
-[13:06:36] [Server thread/INFO]: <xXJuanGDCXx> Te amo wapa
-[13:07:10] [Server thread/INFO]: samvarcia has made the advancement [We Need to Go Deeper]
-[13:08:03] [Server thread/INFO]: <xXJuanGDCXx> pere
-[13:08:13] [Server thread/INFO]: <xXJuanGDCXx> como marco estas cordenadas para despues volver xd
-[13:09:39] [Server thread/INFO]: [HappySebs: Teleported HappySebs to xXJuanGDCXx]
-[13:11:36] [Server thread/INFO]: [samvarcia: Teleported samvarcia to xXJuanGDCXx]
-[13:11:43] [Server thread/INFO]: xXJuanGDCXx has made the advancement [Diamonds!]
-[13:12:18] [Server thread/INFO]: <xXJuanGDCXx> lo peor es que si xd
-[13:12:33] [Server thread/INFO]: samvarcia was slain by xXJuanGDCXx
-[13:12:44] [Server thread/INFO]: <xXJuanGDCXx> los ptos diamantes
-[13:12:44] [Server thread/INFO]: [samvarcia: Teleported samvarcia to xXJuanGDCXx]
-[13:12:54] [Server thread/INFO]: <xXJuanGDCXx> webon
-[13:12:57] [Server thread/INFO]: [HappySebs: Teleported HappySebs to 3624.5, 91.0, -13399.5]
-[13:13:43] [Server thread/INFO]: [HappySebs: Gave 100 [Eye of Ender] to 4]
-[13:13:47] [Server thread/INFO]: samvarcia has made the advancement [Take Aim]
-[13:13:49] [Server thread/INFO]: <xXJuanGDCXx> wtf
-[13:14:07] [Server thread/INFO]: <xXJuanGDCXx> veo los diamonds
-[13:14:41] [Server thread/INFO]: <xXJuanGDCXx> sebs sea legal
-[13:15:06] [Server thread/INFO]: xXJuanGDCXx has made the advancement [Isn't It Iron Pick]
-[13:15:06] [Server thread/INFO]: HappySebs has made the advancement [Isn't It Iron Pick]
-[13:15:06] [Server thread/INFO]: [HappySebs: Gave 1 [Iron Pickaxe] to 4]
-[13:15:18] [Server thread/INFO]: <xXJuanGDCXx> falta uno
-[13:15:26] [Server thread/INFO]: [LePr0fesseur: Teleported HappySebs to LePr0fesseur]
-[13:16:57] [Server thread/INFO]: [HappySebs: Teleported HappySebs to 3624.5, 73.0, -13398.5]
-[13:22:40] [Server thread/INFO]: [HappySebs: Gave 64 [TNT] to 4]
-[13:23:05] [Server thread/INFO]: [HappySebs: Gave 1 [Flint and Steel] to HappySebs]
-[13:24:09] [Server thread/INFO]: [samvarcia: Teleported samvarcia to HappySebs]
-[13:24:21] [Server thread/INFO]: samvarcia was blown up by HappySebs
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Pickaxe'/21291, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Pickaxe'/21291, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Axe'/21292, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Axe'/21292, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Shovel'/21293, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Shovel'/21293, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Diamond Sword'/21294, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Diamond Sword'/21294, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Torch'/21295, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Torch'/21295, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Water Bucket'/21296, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Water Bucket'/21296, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Eye of Ender'/21297, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Eye of Ender'/21297, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Wheat Seeds'/21298, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Wheat Seeds'/21298, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Baked Potato'/21299, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Baked Potato'/21299, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Splash Potion of Harming'/21300, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Splash Potion of Harming'/21300, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Lapis Lazuli'/21301, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Lapis Lazuli'/21301, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['TNT'/21302, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['TNT'/21302, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Steak'/21303, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Steak'/21303, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Pickaxe'/21304, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Pickaxe'/21304, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Wheat'/21305, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Wheat'/21305, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Soul Sand'/21306, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Soul Sand'/21306, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Stick'/21307, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Stick'/21307, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Hoe'/21308, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Hoe'/21308, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Glowstone Dust'/21309, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Glowstone Dust'/21309, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Arrow'/21310, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Arrow'/21310, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Ingot'/21311, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Ingot'/21311, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Dirt'/21312, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Dirt'/21312, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Potion of Healing'/21313, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Potion of Healing'/21313, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Coarse Dirt'/21314, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Coarse Dirt'/21314, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Coal'/21315, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Coal'/21315, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Spruce Planks'/21316, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Spruce Planks'/21316, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Bow'/21317, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Bow'/21317, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Flint and Steel'/21318, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Flint and Steel'/21318, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Dirt'/21319, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Dirt'/21319, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Boots'/21320, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Boots'/21320, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Leggings'/21321, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Leggings'/21321, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Chestplate'/21322, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Chestplate'/21322, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Helmet'/21323, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Helmet'/21323, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Shield'/21324, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Shield'/21324, l='asd', x=3622.30, y=32.52, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity amn['Experience Orb'/21325, l='asd', x=3622.30, y=31.20, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity amn['Experience Orb'/21325, l='asd', x=3622.30, y=31.20, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity amn['Experience Orb'/21326, l='asd', x=3622.30, y=31.20, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity amn['Experience Orb'/21326, l='asd', x=3622.30, y=31.20, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity amn['Experience Orb'/21327, l='asd', x=3622.30, y=31.20, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity amn['Experience Orb'/21327, l='asd', x=3622.30, y=31.20, z=-13403.70]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21328, l='asd', x=3621.41, y=30.51, z=-13403.54]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21328, l='asd', x=3621.41, y=30.51, z=-13403.54]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21329, l='asd', x=3625.72, y=28.40, z=-13401.37]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21329, l='asd', x=3625.72, y=28.40, z=-13401.37]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Coal'/21330, l='asd', x=3624.38, y=28.47, z=-13401.50]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Coal'/21330, l='asd', x=3624.38, y=28.47, z=-13401.50]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Ore'/21331, l='asd', x=3627.74, y=34.57, z=-13401.43]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Ore'/21331, l='asd', x=3627.74, y=34.57, z=-13401.43]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21332, l='asd', x=3625.54, y=33.58, z=-13403.43]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21332, l='asd', x=3625.54, y=33.58, z=-13403.43]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21333, l='asd', x=3627.48, y=31.29, z=-13398.38]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21333, l='asd', x=3627.48, y=31.29, z=-13398.38]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21334, l='asd', x=3625.56, y=28.70, z=-13402.71]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21334, l='asd', x=3625.56, y=28.70, z=-13402.71]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21342, l='asd', x=3625.39, y=34.44, z=-13402.39]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21342, l='asd', x=3625.39, y=34.44, z=-13402.39]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21343, l='asd', x=3620.40, y=30.71, z=-13401.38]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21343, l='asd', x=3620.40, y=30.71, z=-13401.38]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21344, l='asd', x=3620.41, y=31.42, z=-13403.52]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21344, l='asd', x=3620.41, y=31.42, z=-13403.52]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21345, l='asd', x=3624.69, y=31.35, z=-13405.71]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21345, l='asd', x=3624.69, y=31.35, z=-13405.71]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21346, l='asd', x=3621.51, y=32.56, z=-13404.41]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21346, l='asd', x=3621.51, y=32.56, z=-13404.41]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21372, l='asd', x=3627.55, y=32.32, z=-13396.48]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21372, l='asd', x=3627.55, y=32.32, z=-13396.48]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21373, l='asd', x=3628.39, y=29.38, z=-13397.60]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21373, l='asd', x=3628.39, y=29.38, z=-13397.60]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21374, l='asd', x=3628.64, y=33.28, z=-13400.52]
-[13:24:21] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21374, l='asd', x=3628.64, y=33.28, z=-13400.52]
-[13:24:22] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21384, l='asd', x=3626.39, y=34.52, z=-13404.30]
-[13:24:22] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21384, l='asd', x=3626.39, y=34.52, z=-13404.30]
-[13:24:22] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21386, l='asd', x=3626.74, y=32.48, z=-13406.45]
-[13:24:22] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21386, l='asd', x=3626.74, y=32.48, z=-13406.45]
-[13:24:22] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21387, l='asd', x=3628.44, y=31.70, z=-13404.42]
-[13:24:22] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21387, l='asd', x=3628.44, y=31.70, z=-13404.42]
-[13:24:22] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21420, l='asd', x=3626.35, y=28.75, z=-13393.68]
-[13:24:22] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21420, l='asd', x=3626.35, y=28.75, z=-13393.68]
-[13:24:22] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Ore'/21421, l='asd', x=3625.57, y=24.48, z=-13394.28]
-[13:24:22] [Server thread/WARN]: Fetching packet for removed entity ayo['Iron Ore'/21421, l='asd', x=3625.57, y=24.48, z=-13394.28]
-[13:24:22] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21422, l='asd', x=3623.74, y=24.27, z=-13397.25]
-[13:24:22] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21422, l='asd', x=3623.74, y=24.27, z=-13397.25]
-[13:24:22] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21424, l='asd', x=3625.44, y=26.29, z=-13393.41]
-[13:24:22] [Server thread/WARN]: Fetching packet for removed entity ayo['Cobblestone'/21424, l='asd', x=3625.44, y=26.29, z=-13393.41]
-[13:24:22] [Server thread/WARN]: Fetching packet for removed entity ayo['Andesite'/21425, l='asd', x=3624.28, y=24.40, z=-13398.71]
-[13:24:22] [Server thread/WARN]: Fetching packet for removed entity ayo['Andesite'/21425, l='asd', x=3624.28, y=24.40, z=-13398.71]
-[13:24:55] [Server thread/INFO]: [samvarcia: Teleported samvarcia to HappySebs]
-[13:25:18] [Server thread/INFO]: <LePr0fesseur> este es vuestro idolo?
-[13:25:20] [Server thread/INFO]: <xXJuanGDCXx> Amiwitos, gotta go
-[13:25:28] [Server thread/INFO]: <xXJuanGDCXx> despues jugamoh
-[13:25:30] [Server thread/INFO]: <LePr0fesseur> xD
-[13:25:34] [Server thread/INFO]: <xXJuanGDCXx> XD
-[13:25:39] [Server thread/INFO]: samvarcia was burnt to a crisp whilst fighting Zombie
-[13:25:40] [Server thread/INFO]: <xXJuanGDCXx> Amigos bye xd
-[13:25:41] [Server thread/INFO]: HappySebs was slain by Zombie
-[13:25:56] [Server thread/INFO]: xXJuanGDCXx lost connection: Disconnected
-[13:25:56] [Server thread/INFO]: xXJuanGDCXx left the game
-[13:26:11] [Server thread/INFO]: samvarcia has made the advancement [Cover Me With Diamonds]
-[13:26:11] [Server thread/INFO]: [HappySebs: Gave 1 [Diamond Boots] to samvarcia]
-[13:26:18] [Server thread/INFO]: [HappySebs: Gave 1 [Diamond Leggings] to samvarcia]
-[13:26:30] [Server thread/INFO]: [HappySebs: Gave 1 [Diamond Chestplate] to samvarcia]
-[13:26:39] [Server thread/INFO]: [HappySebs: Gave 1 [Diamond Helmet] to samvarcia]
-[13:26:48] [Server thread/INFO]: [HappySebs: Gave 1 [Diamond Sword] to samvarcia]
-[13:26:55] [Server thread/INFO]: [HappySebs: Gave 1 [Diamond Axe] to samvarcia]
-[13:27:01] [Server thread/INFO]: [HappySebs: Gave 1 [Diamond Pickaxe] to samvarcia]
-[13:27:08] [Server thread/INFO]: [HappySebs: Gave 1 [Diamond Shovel] to samvarcia]
-[13:27:22] [Server thread/INFO]: [HappySebs: Gave 10 [Block of Iron] to samvarcia]
-[13:27:46] [Server thread/INFO]: [HappySebs: Gave 1 [Shield] to samvarcia]
-[13:27:57] [Server thread/INFO]: [HappySebs: Gave 10 [Block of Coal] to samvarcia]
-[13:28:51] [Server thread/INFO]: [HappySebs: Gave 10000000 experience points to samvarcia]
-[13:29:08] [Server thread/INFO]: [LePr0fesseur: Applied effect Blindness to HappySebs]
-[13:29:33] [Server thread/INFO]: [LePr0fesseur: Applied effect Slowness to HappySebs]
-[13:30:02] [Server thread/INFO]: [LePr0fesseur: Applied effect Slowness to LePr0fesseur]
-[13:30:12] [Server thread/INFO]: [HappySebs: Teleported HappySebs to 3624.5, 74.0, -13399.5]
-[13:30:19] [Server thread/INFO]: [LePr0fesseur: Applied effect Blindness to LePr0fesseur]
-[13:30:39] [Server thread/INFO]: HappySebs was shot by Skeleton
-[13:30:49] [Server thread/INFO]: [LePr0fesseur: Removed every effect from LePr0fesseur]
-[13:31:29] [Server thread/INFO]: [HappySebs: Teleported HappySebs to 3624.5, 70.0, -13399.5]
-[13:31:43] [Server thread/INFO]: [samvarcia: Teleported samvarcia to LePr0fesseur]
-[13:32:30] [Server thread/INFO]: [HappySebs: Gave 1 [Netherite Shovel] to HappySebs]
-[13:32:51] [Server thread/INFO]: [HappySebs: Gave 1 [Netherite Pickaxe] to HappySebs]
-[13:33:10] [Server thread/INFO]: [HappySebs: Gave 1 [Eye of Ender] to HappySebs]
-[13:33:21] [Server thread/INFO]: [HappySebs: Gave 99 [Eye of Ender] to HappySebs]
-[13:35:17] [Server thread/INFO]: [LePr0fesseur: Teleported HappySebs to LePr0fesseur]
-[13:36:01] [Server thread/INFO]: HappySebs has made the advancement [Into Fire]
-[13:36:08] [Server thread/WARN]: Fetching packet for removed entity ayo['Air'/26135, l='asd', x=3983.83, y=70.00, z=-14685.26]
-[13:36:08] [Server thread/WARN]: Fetching packet for removed entity ayo['Air'/26135, l='asd', x=3983.83, y=70.00, z=-14685.26]
-[13:37:18] [Server thread/INFO]: HappySebs was slain by Zombie
-[13:37:45] [Server thread/INFO]: [LePr0fesseur: Teleported HappySebs to LePr0fesseur]
-[13:38:14] [Server thread/INFO]: HappySebs was slain by Zombie
-[13:38:39] [Server thread/INFO]: [LePr0fesseur: Teleported HappySebs to LePr0fesseur]
-[13:40:19] [Server thread/INFO]: [HappySebs: Gave 1 [Eye of Ender] to HappySebs]
-[13:42:00] [Server thread/INFO]: [HappySebs: Teleported HappySebs to LePr0fesseur]
-[13:42:28] [Server thread/INFO]: HappySebs lost connection: Disconnected
-[13:42:28] [Server thread/INFO]: HappySebs left the game
-[13:43:57] [Server thread/INFO]: [LePr0fesseur: Set 10 experience levels on samvarcia]
-[13:46:29] [Server thread/INFO]: WonderCrack[/25.2.185.55:52188] logged in with entity id 30194 at (4077.3573936489483, 71.0, -14718.871853900207)
-[13:46:29] [Server thread/INFO]: WonderCrack joined the game
-[13:46:45] [Server thread/INFO]: [WonderCrack: Teleported WonderCrack to LePr0fesseur]
-[13:47:04] [Server thread/INFO]: [WonderCrack: Teleported WonderCrack to samvarcia]
-[13:50:59] [Server thread/INFO]: [WonderCrack: Teleported WonderCrack to LePr0fesseur]
-[13:51:38] [Server thread/INFO]: [WonderCrack: Teleported WonderCrack to LePr0fesseur]
-[13:52:56] [Server thread/INFO]: LePr0fesseur fell from a high place
-[13:53:02] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to WonderCrack]
-[13:53:20] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to 3870.5, 104.0, -14745.5]
-[13:53:20] [Server thread/WARN]: LePr0fesseur moved too quickly! 244.9682922644697,48.0,-1346.199999988079
-[13:53:20] [Server thread/WARN]: LePr0fesseur moved too quickly! 244.9682922644697,48.0,-1346.199999988079
-[13:53:20] [Server thread/WARN]: LePr0fesseur moved too quickly! 244.9682922644697,48.0,-1346.199999988079
-[13:53:20] [Server thread/WARN]: LePr0fesseur moved too quickly! 244.9682922644697,48.0,-1346.199999988079
-[13:53:20] [Server thread/WARN]: LePr0fesseur moved too quickly! 244.9682922644697,48.0,-1346.199999988079
-[13:53:20] [Server thread/WARN]: LePr0fesseur moved too quickly! 244.9682922644697,48.0,-1346.199999988079
-[13:53:20] [Server thread/WARN]: LePr0fesseur moved too quickly! 244.9682922644697,48.0,-1346.199999988079
-[13:53:20] [Server thread/WARN]: LePr0fesseur moved too quickly! 244.9682922644697,48.0,-1346.199999988079
-[13:53:20] [Server thread/WARN]: LePr0fesseur moved too quickly! 244.9682922644697,48.0,-1346.199999988079
-[13:53:20] [Server thread/WARN]: LePr0fesseur moved too quickly! 244.9682922644697,48.0,-1346.199999988079
-[13:53:20] [Server thread/WARN]: LePr0fesseur moved too quickly! 244.9682922644697,48.0,-1346.199999988079
-[13:53:20] [Server thread/WARN]: LePr0fesseur moved too quickly! 244.9682922644697,48.0,-1346.199999988079
-[13:53:20] [Server thread/WARN]: LePr0fesseur moved too quickly! 244.9682922644697,48.0,-1346.199999988079
-[13:53:50] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to WonderCrack]
-[13:53:50] [Server thread/WARN]: LePr0fesseur moved too quickly! -341.84121214211746,-21.0,1279.4929279196967
-[13:53:50] [Server thread/WARN]: LePr0fesseur moved too quickly! -341.84121214211746,-21.0,1279.4929279196967
-[13:53:50] [Server thread/WARN]: LePr0fesseur moved too quickly! -341.84121214211746,-21.0,1279.4929279196967
-[13:53:50] [Server thread/WARN]: LePr0fesseur moved too quickly! -341.84121214211746,-21.0,1279.4929279196967
-[13:53:50] [Server thread/WARN]: LePr0fesseur moved too quickly! -341.84121214211746,-21.0,1279.4929279196967
-[13:53:50] [Server thread/WARN]: LePr0fesseur moved too quickly! -341.84121214211746,-21.0,1279.4929279196967
-[13:53:50] [Server thread/WARN]: LePr0fesseur moved too quickly! -341.84121214211746,-21.0,1279.4929279196967
-[13:55:10] [Server thread/INFO]: [LePr0fesseur: Teleported WonderCrack to LePr0fesseur]
-[13:57:18] [Server thread/INFO]: [LePr0fesseur: Teleported WonderCrack to LePr0fesseur]
-[13:57:18] [Server thread/WARN]: WonderCrack moved too quickly! 0.5866351600748203,17.0,-1.6097804115834151
-[13:59:43] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to 0.5, 85.0, 0.5]
-[13:59:43] [Server thread/WARN]: LePr0fesseur moved too quickly! -3622.033751693364,57.0,13408.576995786516
-[13:59:43] [Server thread/WARN]: LePr0fesseur moved too quickly! -3622.033751693364,57.0,13408.576995786516
-[13:59:52] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to -1399.5, 71.0, 936.5]
-[13:59:52] [Server thread/WARN]: LePr0fesseur moved too quickly! -1399.7341676412825,0.0,935.4183179671477
-[13:59:52] [Server thread/WARN]: LePr0fesseur moved too quickly! -1399.7341676412825,0.0,935.4183179671477
-[13:59:52] [Server thread/WARN]: LePr0fesseur moved too quickly! -1399.7341676412825,0.0,935.4183179671477
-[13:59:52] [Server thread/WARN]: LePr0fesseur moved too quickly! -1399.7341676412825,0.0,935.4183179671477
-[13:59:52] [Server thread/WARN]: LePr0fesseur moved too quickly! -1399.7341676412825,0.0,935.4183179671477
-[13:59:52] [Server thread/WARN]: LePr0fesseur moved too quickly! -1399.7341676412825,0.0,935.4183179671477
-[13:59:52] [Server thread/WARN]: LePr0fesseur moved too quickly! -1399.7341676412825,0.0,935.4183179671477
-[13:59:52] [Server thread/WARN]: LePr0fesseur moved too quickly! -1399.7341676412825,0.0,935.4183179671477
-[13:59:52] [Server thread/WARN]: LePr0fesseur moved too quickly! -1399.7341676412825,0.0,935.4183179671477
-[14:00:33] [Server thread/INFO]: samvarcia lost connection: Disconnected
-[14:00:33] [Server thread/INFO]: samvarcia left the game
-[14:00:51] [Server thread/INFO]: LePr0fesseur has made the advancement [Eye Spy]
-[14:01:06] [Server thread/INFO]: WonderCrack burned to death
-[14:01:20] [Server thread/INFO]: <LePr0fesseur> ./locate stronghold
-[14:01:43] [Server thread/INFO]: [WonderCrack: Teleported WonderCrack to 3624.5, 73.0, -13399.5]
-[14:02:00] [Server thread/INFO]: WonderCrack fell from a high place
-[14:04:21] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to -1399.5, 41.0, 936.5]
-[14:04:21] [Server thread/WARN]: LePr0fesseur moved too quickly! 3.626325101790144,0.0,-16.170494288910504
-[14:07:36] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Spectator Mode]
-[14:07:59] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Survival Mode]
-[14:08:11] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Spectator Mode]
-[14:08:32] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Survival Mode]
-[14:08:40] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Spectator Mode]
-[14:09:03] [Server thread/INFO]: WonderCrack lost connection: Disconnected
-[14:09:03] [Server thread/INFO]: WonderCrack left the game
-[14:09:05] [Server thread/INFO]: [LePr0fesseur: Applied effect Night Vision to LePr0fesseur]
-[14:09:12] [Server thread/INFO]: [LePr0fesseur: Applied effect Night Vision to LePr0fesseur]
-[14:11:14] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to -1399.5, 12.882925299022297, 936.5]
-[14:11:14] [Server thread/WARN]: LePr0fesseur moved too quickly! 51.83325916900776,0.0,-4.459517971637069
-[14:11:14] [Server thread/WARN]: LePr0fesseur moved too quickly! 51.83325916900776,0.0,-4.459517971637069
-[14:11:14] [Server thread/WARN]: LePr0fesseur moved too quickly! 51.83325916900776,0.0,-4.459517971637069
-[14:11:25] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Creative Mode]
-[14:15:25] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Spectator Mode]
-[14:16:05] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Creative Mode]
-[14:16:16] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Spectator Mode]
-[14:16:58] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to 200000.5, 100.0, 200000.5]
-[14:16:58] [Server thread/WARN]: LePr0fesseur moved too quickly! 201328.55193179613,83.07699247787207,199050.8411730454
-[14:16:58] [Server thread/WARN]: LePr0fesseur moved too quickly! 201328.55193179613,83.07699247787207,199050.8411730454
-[14:16:58] [Server thread/WARN]: LePr0fesseur moved too quickly! 201328.55193179613,83.07699247787207,199050.8411730454
-[14:16:58] [Server thread/WARN]: LePr0fesseur moved too quickly! 201328.55193179613,83.07699247787207,199050.8411730454
-[14:16:58] [Server thread/WARN]: LePr0fesseur moved too quickly! 201328.55193179613,83.07699247787207,199050.8411730454
-[14:16:58] [Server thread/WARN]: LePr0fesseur moved too quickly! 201328.55193179613,83.07699247787207,199050.8411730454
-[14:16:58] [Server thread/WARN]: LePr0fesseur moved too quickly! 201328.55193179613,83.07699247787207,199050.8411730454
-[14:16:58] [Server thread/WARN]: LePr0fesseur moved too quickly! 201328.55193179613,83.07699247787207,199050.8411730454
-[14:17:29] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to 15688.5, 41.11339119471925, 13080.5]
-[14:17:29] [Server thread/WARN]: LePr0fesseur moved too quickly! -184230.7910981384,0.0,-187030.91443188422
-[14:17:29] [Server thread/WARN]: LePr0fesseur moved too quickly! -184230.7910981384,0.0,-187030.91443188422
-[14:17:29] [Server thread/WARN]: LePr0fesseur moved too quickly! -184230.7910981384,0.0,-187030.91443188422
-[14:17:29] [Server thread/WARN]: LePr0fesseur moved too quickly! -184230.7910981384,0.0,-187030.91443188422
-[14:17:29] [Server thread/WARN]: LePr0fesseur moved too quickly! -184230.7910981384,0.0,-187030.91443188422
-[14:17:29] [Server thread/WARN]: LePr0fesseur moved too quickly! -184230.7910981384,0.0,-187030.91443188422
-[14:17:29] [Server thread/WARN]: LePr0fesseur moved too quickly! -184230.7910981384,0.0,-187030.91443188422
-[14:17:29] [Server thread/WARN]: LePr0fesseur moved too quickly! -184230.7910981384,0.0,-187030.91443188422
-[14:18:03] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Survival Mode]
-[14:18:49] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Spectator Mode]
-[14:18:55] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Survival Mode]
-[14:19:19] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Spectator Mode]
-[14:19:39] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Survival Mode]
-[14:20:02] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Spectator Mode]
-[14:20:24] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Survival Mode]
-[14:20:38] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Spectator Mode]
-[14:20:50] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Survival Mode]
-[14:21:01] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Spectator Mode]
-[14:21:16] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Survival Mode]
-[14:21:19] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Spectator Mode]
-[14:21:28] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Survival Mode]
-[14:22:36] [Server thread/INFO]: [LePr0fesseur: Gave 11 [Eye of Ender] to LePr0fesseur]
-[14:22:56] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to 3870.5, 104.0, -14745.5]
-[14:22:56] [Server thread/WARN]: LePr0fesseur moved too quickly! -11808.388894534804,82.0,-27807.12531986923
-[14:22:56] [Server thread/WARN]: LePr0fesseur moved too quickly! -11808.388894534804,82.0,-27807.12531986923
-[14:22:56] [Server thread/WARN]: LePr0fesseur moved too quickly! -11808.388894534804,82.0,-27807.12531986923
-[14:22:56] [Server thread/WARN]: LePr0fesseur moved too quickly! -11808.388894534804,82.0,-27807.12531986923
-[14:22:56] [Server thread/WARN]: LePr0fesseur moved too quickly! -11808.388894534804,82.0,-27807.12531986923
-[14:22:56] [Server thread/WARN]: LePr0fesseur moved too quickly! -11808.388894534804,82.0,-27807.12531986923
-[14:24:53] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Creative Mode]
-[14:29:23] [Server thread/INFO]: [LePr0fesseur: Set own game mode to Survival Mode]
-[14:29:36] [Server thread/INFO]: LePr0fesseur lost connection: Disconnected
-[14:29:36] [Server thread/INFO]: LePr0fesseur left the game
-[14:29:44] [Server thread/INFO]: Stopping the server
-[14:29:44] [Server thread/INFO]: Stopping server
-[14:29:44] [Server thread/INFO]: Saving players
-[14:29:44] [Server thread/INFO]: Saving worlds
-[14:29:44] [Server thread/INFO]: Saving chunks for level 'asd'/minecraft:overworld
-[14:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (asd): All chunks are saved
-[14:29:44] [Server thread/INFO]: Saving chunks for level 'asd'/minecraft:the_nether
-[14:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:29:44] [Server thread/INFO]: Saving chunks for level 'asd'/minecraft:the_end
-[14:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (asd): All chunks are saved
-[14:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:00:47] [Server thread/INFO]: [LePr0fesseur: Gave 128 [Iron Ore] to LePr0fesseur]
+[00:01:14] [Server thread/INFO]: [LePr0fesseur: Gave 128 [Iron Ore] to LePr0fesseur]
+[00:02:02] [Server thread/INFO]: [LePr0fesseur: Gave 32 [Iron Ore] to LePr0fesseur]
+[00:02:51] [Server thread/INFO]: [LePr0fesseur: Gave 12 [Soul Fire Lantern] to LePr0fesseur]
+[00:09:25] [Server thread/INFO]: [LePr0fesseur: Set the time to 1000]
+[00:09:54] [Server thread/INFO]: [LePr0fesseur: Gave 64 [Coal Ore] to LePr0fesseur]
+[00:26:35] [Server thread/INFO]: [LePr0fesseur: Gave 5 [Smoker] to LePr0fesseur]
+[00:27:04] [Server thread/INFO]: [LePr0fesseur: Gave 1 [Blue Bed] to LePr0fesseur]
+[00:27:24] [Server thread/INFO]: <LePr0fesseur> wxd
+[00:31:15] [Server thread/INFO]: [LePr0fesseur: Gave 2 [Hopper] to LePr0fesseur]
+[00:32:54] [Server thread/INFO]: [LePr0fesseur: Gave 1 [Trapped Chest] to LePr0fesseur]
+[00:33:03] [Server thread/INFO]: [LePr0fesseur: Gave 1 [Trapped Chest] to LePr0fesseur]
+[00:45:10] [Server thread/INFO]: [LePr0fesseur: Gave 2 [Hopper] to LePr0fesseur]
+[00:55:32] [Server thread/INFO]: [LePr0fesseur: Gave 1 [Cobblestone Slab] to LePr0fesseur]
+[00:57:18] [Server thread/WARN]: Mismatch in destroy block pos: fl{x=4135, y=69, z=-14792} fl{x=4134, y=68, z=-14792}
+[00:57:18] [Server thread/WARN]: Mismatch in destroy block pos: fl{x=4135, y=69, z=-14792} fl{x=4134, y=68, z=-14792}
+[00:57:18] [Server thread/WARN]: Mismatch in destroy block pos: fl{x=4135, y=69, z=-14792} fl{x=4134, y=68, z=-14792}
+[00:57:18] [Server thread/WARN]: Mismatch in destroy block pos: fl{x=4135, y=69, z=-14792} fl{x=4134, y=68, z=-14792}
+[00:57:18] [Server thread/WARN]: Mismatch in destroy block pos: fl{x=4135, y=69, z=-14792} fl{x=4134, y=68, z=-14792}
+[00:59:38] [Server thread/INFO]: [LePr0fesseur: Gave 1 [Diamond Hoe] to LePr0fesseur]
+[01:07:28] [Server thread/INFO]: [LePr0fesseur: Gave 2 [Hopper] to LePr0fesseur]
+[01:08:25] [Server thread/INFO]: [LePr0fesseur: Gave 64 [Coal] to LePr0fesseur]
+[01:08:31] [Server thread/INFO]: [LePr0fesseur: Gave 64 [Coal] to LePr0fesseur]
+[01:11:18] [Server thread/INFO]: [LePr0fesseur: Gave 2 [Hopper] to LePr0fesseur]
+[01:14:13] [Server thread/INFO]: [LePr0fesseur: Gave 1 [Dispenser] to LePr0fesseur]
+[01:15:09] [Server thread/INFO]: [LePr0fesseur: Gave 1 [Dropper] to LePr0fesseur]
+[01:34:46] [Server thread/INFO]: [LePr0fesseur: Gave 25 experience levels to LePr0fesseur]
+[01:39:56] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to 4115.5, 69.0, -14779.5]
+[01:44:54] [Server thread/INFO]: [LePr0fesseur: Applied enchantment Silk Touch to LePr0fesseur's item]
+[01:44:56] [Server thread/INFO]: LePr0fesseur lost connection: Disconnected
+[01:44:56] [Server thread/INFO]: LePr0fesseur left the game
+[01:44:58] [Server thread/INFO]: LePr0fesseur[/190.84.59.62:52465] logged in with entity id 39992 at (4014.5590177757854, 70.0, -14671.735170888016)
+[01:44:58] [Server thread/INFO]: LePr0fesseur joined the game
+[01:48:51] [Server thread/INFO]: xXJuanGDCXx[/190.157.128.118:60579] logged in with entity id 40958 at (3863.230029801739, 104.0, -14739.327150792566)
+[01:48:51] [Server thread/INFO]: xXJuanGDCXx joined the game
+[01:49:00] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to xXJuanGDCXx]
+[01:49:40] [Server thread/INFO]: xXJuanGDCXx was blown up by LePr0fesseur
+[01:49:48] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to 4115.5, 69.0, -14779.5]
+[01:49:54] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to 4115.5, 70.0, -14779.5]
+[01:50:00] [Server thread/INFO]: [xXJuanGDCXx: Teleported xXJuanGDCXx to LePr0fesseur]
+[01:52:36] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to 4115.5, 70.0, -14779.5]
+[01:52:40] [Server thread/INFO]: [xXJuanGDCXx: Teleported xXJuanGDCXx to LePr0fesseur]
+[01:55:19] [Server thread/INFO]: <xXJuanGDCXx> lol
+[01:55:20] [Server thread/INFO]: <xXJuanGDCXx> xd
+[01:57:29] [Server thread/INFO]: [LePr0fesseur: Applied enchantment Efficiency III to xXJuanGDCXx's item]
+[01:57:34] [Server thread/INFO]: [LePr0fesseur: Applied enchantment Unbreaking III to xXJuanGDCXx's item]
+[01:57:39] [Server thread/INFO]: [LePr0fesseur: Applied enchantment Fortune III to xXJuanGDCXx's item]
+[01:57:58] [Server thread/INFO]: [LePr0fesseur: Gave 1 [Diamond Chestplate] to xXJuanGDCXx]
+[01:58:06] [Server thread/INFO]: [LePr0fesseur: Gave 1 [Diamond Leggings] to xXJuanGDCXx]
+[01:58:15] [Server thread/INFO]: [LePr0fesseur: Gave 1 [Iron Boots] to xXJuanGDCXx]
+[01:58:18] [Server thread/INFO]: [LePr0fesseur: Gave 1 [Iron Helmet] to xXJuanGDCXx]
+[01:58:30] [Server thread/INFO]: [LePr0fesseur: Gave 1 [Diamond Sword] to xXJuanGDCXx]
+[02:08:14] [Server thread/INFO]: Rente:v[/186.80.129.221:62718] logged in with entity id 44196 at (3695.5, 66.0, -13410.5)
+[02:08:14] [Server thread/INFO]: Rente:v joined the game
+[02:08:48] [Server thread/WARN]: Mismatch in destroy block pos: fl{x=0, y=0, z=0} fl{x=3682, y=73, z=-13414}
+[02:08:49] [Server thread/INFO]: [LePr0fesseur: Made Rente:v a server operator]
+[02:09:34] [Server thread/INFO]: <LePr0fesseur> tpesee
+[02:10:21] [Server thread/INFO]: [Rente:v: Teleported Rente:v to LePr0fesseur]
+[02:10:36] [Server thread/INFO]: <LePr0fesseur> no me robe hp
+[02:10:48] [Server thread/INFO]: <xXJuanGDCXx> kio
+[02:10:49] [Server thread/INFO]: <Rente:v> no tengo nada
+[02:11:01] [Server thread/INFO]: <Rente:v> dame algo jajaja
+[02:11:56] [Server thread/INFO]: Rente:v has made the advancement [Diamonds!]
+[02:11:56] [Server thread/INFO]: Rente:v has made the advancement [Cover Me With Diamonds]
+[02:12:02] [Server thread/INFO]: <LePr0fesseur> ste men
+[02:12:07] [Server thread/INFO]: <LePr0fesseur> no me robe
+[02:12:08] [Server thread/INFO]: <LePr0fesseur> hpta
+[02:12:26] [Server thread/INFO]: Rente:v was burnt to a crisp whilst fighting LePr0fesseur
+[02:12:38] [Server thread/INFO]: <LePr0fesseur> perro
+[02:12:43] [Server thread/INFO]: <LePr0fesseur> esos diamantes no son mio
+[02:12:46] [Server thread/INFO]: <LePr0fesseur> son de tomas
+[02:12:57] [Server thread/INFO]: <LePr0fesseur> si fueran mios le doy
+[02:13:05] [Server thread/INFO]: Rente:v was slain by xXJuanGDCXx using [La Mata Negros]
+[02:14:24] [Server thread/INFO]: <Rente:v> discord
+[02:14:38] [Server thread/INFO]: <LePr0fesseur> entre
+[02:14:44] [Server thread/INFO]: <LePr0fesseur> al canal de voz
+[02:14:46] [Server thread/INFO]: <LePr0fesseur> general
+[02:15:03] [Server thread/INFO]: <Rente:v> como
+[02:15:08] [Server thread/INFO]: <LePr0fesseur> esta en el cel?
+[02:15:10] [Server thread/INFO]: <LePr0fesseur> o en pc
+[02:15:12] [Server thread/INFO]: <LePr0fesseur> el discord
+[02:15:14] [Server thread/INFO]: Rente:v was slain by Zombie
+[02:15:25] [Server thread/INFO]: <Rente:v> cel
+[02:15:31] [Server thread/INFO]: <LePr0fesseur> dele arriba a la izq
+[02:15:35] [Server thread/INFO]: <LePr0fesseur> en las tres rayitas
+[02:17:18] [Server thread/INFO]: <xXJuanGDCXx> la sword!!!!
+[02:17:23] [Server thread/INFO]: <xXJuanGDCXx> la mata negros xd
+[02:20:15] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to xXJuanGDCXx]
+[02:20:51] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to 4115.5, 69.0, -14779.5]
+[02:21:49] [Server thread/INFO]: Rente:v has made the advancement [Stone Age]
+[02:23:35] [Server thread/INFO]: Rente:v has made the advancement [Getting an Upgrade]
+[02:24:08] [Server thread/INFO]: [xXJuanGDCXx: Teleported xXJuanGDCXx to LePr0fesseur]
+[02:25:16] [Server thread/WARN]: Mismatch in destroy block pos: fl{x=4115, y=66, z=-14779} fl{x=4114, y=66, z=-14779}
+[02:25:16] [Server thread/WARN]: Mismatch in destroy block pos: fl{x=4115, y=66, z=-14779} fl{x=4114, y=66, z=-14779}
+[02:25:16] [Server thread/WARN]: Mismatch in destroy block pos: fl{x=4115, y=66, z=-14779} fl{x=4114, y=66, z=-14779}
+[02:25:16] [Server thread/WARN]: Mismatch in destroy block pos: fl{x=4115, y=66, z=-14779} fl{x=4114, y=66, z=-14779}
+[02:25:16] [Server thread/WARN]: Mismatch in destroy block pos: fl{x=4115, y=66, z=-14779} fl{x=4114, y=66, z=-14779}
+[02:25:16] [Server thread/WARN]: Mismatch in destroy block pos: fl{x=4115, y=66, z=-14779} fl{x=4114, y=66, z=-14779}
+[02:25:16] [Server thread/WARN]: Mismatch in destroy block pos: fl{x=4115, y=66, z=-14779} fl{x=4114, y=66, z=-14779}
+[02:26:39] [Server thread/INFO]: Rente:v has made the advancement [A Seedy Place]
+[02:27:29] [Server thread/INFO]: [LePr0fesseur: Set the time to 1000]
+[02:28:11] [Server thread/INFO]: xXJuanGDCXx has made the advancement [Local Brewery]
+[02:28:20] [Server thread/INFO]: Rente:v has made the advancement [Acquire Hardware]
+[02:29:19] [Server thread/INFO]: [Rente:v: Teleported Rente:v to LePr0fesseur]
+[02:30:26] [Server thread/INFO]: [LePr0fesseur: Teleported LePr0fesseur to xXJuanGDCXx]
+[02:35:00] [Server thread/INFO]: xXJuanGDCXx has made the advancement [Ice Bucket Challenge]
+[02:42:28] [Server thread/INFO]: Rente:v has made the advancement [Suit Up]
+[02:42:49] [Server thread/INFO]: <xXJuanGDCXx> 5 stacks xd
+[02:43:24] [Server thread/INFO]: Rente:v has made the advancement [Isn't It Iron Pick]
+[02:44:37] [Server thread/INFO]: Rente:v has made the advancement [Monster Hunter]
+[02:46:23] [Server thread/INFO]: [Rente:v: Gamerule keepInventory is now set to: true]
+[02:46:36] [Server thread/INFO]: [LePr0fesseur: Gamerule keepInventory is now set to: false]
+[02:57:13] [Server thread/WARN]: Mismatch in destroy block pos: fl{x=3613, y=85, z=-14589} fl{x=3619, y=83, z=-14591}
+[03:14:03] [Server thread/INFO]: Rente:v lost connection: Disconnected
+[03:14:03] [Server thread/INFO]: Rente:v left the game
+[03:14:51] [Server thread/INFO]: Rente:v[/186.80.129.221:60768] logged in with entity id 60426 at (3620.8693475217815, 84.0, -14580.699999988079)
+[03:14:51] [Server thread/INFO]: Rente:v joined the game
+[03:15:00] [Server thread/INFO]: Rente:v lost connection: Disconnected
+[03:15:00] [Server thread/INFO]: Rente:v left the game
