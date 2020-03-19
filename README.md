@@ -1,6 +1,6 @@
 # MCSV
 
-/opt/minecraft_sv 
+/opt/MCSV
 
 
 
@@ -13,7 +13,7 @@ sudo /etc/init.d/supervisor stop
 
 sudo /etc/init.d/supervisor start
 
-sudo java -Xmx1024M -Xms1024M -jar /opt/minecraft_sv/latest.jar nogui
+sudo java -Xmx1024M -Xms1024M -jar /opt/MCSV/server.jar nogui
 
 
 
